@@ -1,4 +1,5 @@
-# numkit-demo
+# My little experiment with vibe-coding a programming language
+
 Matlab-like language and IDE.
 
 See in action
